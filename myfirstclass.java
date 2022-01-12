@@ -12,7 +12,7 @@ public class myfirstclass {
         System.out.println("my sec num");
 		System.out.println("this is balraj branch taken from master code base");
 		System.out.println("this is mani branch taken from the balraj branch");
-		System.out.println("this is a test for git test");
+		System.out.println("this is a test for mani git test");
 	}
 
 }
